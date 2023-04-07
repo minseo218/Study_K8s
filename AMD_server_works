@@ -1,0 +1,5 @@
+# Connecting the Public directory to K8s using Ingress
+
+[root@master ~]# kubectl version --client    // checking if k8s is installed
+[root@master ~]# kubectl cluster-info        // show important cluster info
+
